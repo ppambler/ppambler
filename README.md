@@ -1,3 +1,3 @@
 ## My Github Stats
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ppambler&show_icons=true&show_owner=true&count_private=true&theme=radical&show_icons=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ppambler&show_icons=true&show_owner=true&count_private=true&theme=dracula&show_icons=true)
